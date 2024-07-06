@@ -1,3 +1,3 @@
 "# Git-control-merge-testing"
 
-Changing test line for test..
+Changing test line.. adding more stuff on the same line.
