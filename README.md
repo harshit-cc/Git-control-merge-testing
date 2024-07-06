@@ -1,1 +1,3 @@
-"# Git-control-merge-testing" 
+"# Git-control-merge-testing"
+
+Adding test line..
